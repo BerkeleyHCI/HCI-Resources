@@ -14,3 +14,6 @@ http://www.andrewkuz.net/hci-opportunities-summer-2022.html
 
 CS PhD Guides
 https://parentheticallyspeaking.org/articles/us-cs-phd-faq/ 
+
+How Do I Do HCI Research?
+https://faculty.washington.edu/ajko/papers/Ko2019StudyDesign.pdf 
