@@ -9,4 +9,5 @@ Applying to Grad School
 https://blog.ml.cmu.edu/2020/03/02/questions-to-ask-a-prospective-ph-d-advisor-on-visit-day-with-thorough-and-forthright-explanations/
 
 
-
+Summer Opportunities
+http://www.andrewkuz.net/hci-opportunities-summer-2022.html 
