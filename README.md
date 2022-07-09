@@ -17,3 +17,11 @@ https://parentheticallyspeaking.org/articles/us-cs-phd-faq/
 
 How Do I Do HCI Research?
 https://faculty.washington.edu/ajko/papers/Ko2019StudyDesign.pdf 
+
+Inspiration
+http://worrydream.com/#!/InventingOnPrinciple 
+
+
+Lay of the Land - What Kinds of Things Do HCI Researchers Work On? (Subfields)
+
+How Do I Get Involved in HCI?
