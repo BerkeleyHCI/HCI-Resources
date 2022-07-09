@@ -11,3 +11,6 @@ https://blog.ml.cmu.edu/2020/03/02/questions-to-ask-a-prospective-ph-d-advisor-o
 
 Summer Opportunities
 http://www.andrewkuz.net/hci-opportunities-summer-2022.html 
+
+CS PhD Guides
+https://parentheticallyspeaking.org/articles/us-cs-phd-faq/ 
