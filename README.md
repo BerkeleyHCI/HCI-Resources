@@ -17,6 +17,7 @@ https://parentheticallyspeaking.org/articles/us-cs-phd-faq/
 
 How Do I Do HCI Research?
 https://faculty.washington.edu/ajko/papers/Ko2019StudyDesign.pdf 
+https://hcicourses.stanford.edu/cs347/2020/project.php
 
 Inspiration
 http://worrydream.com/#!/InventingOnPrinciple 
