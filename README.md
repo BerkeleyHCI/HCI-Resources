@@ -1,5 +1,8 @@
 # HCI-Resources
 
+## This is a work in progress for compiling helpful resources for folks interested in HCI Research. Pull requests are welcome if you have anything you'd like to add! 
+
+### @erawn is in charge of this - please contact then with any questions or concerns. 
 
 NSF GRFP Examples
 https://docs.google.com/spreadsheets/d/1xoezGhbtcpg3BvNdag2F5dTQM-Xl2EELUgAfG1eUg0s/edit#gid=0 
