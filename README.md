@@ -36,3 +36,7 @@ http://worrydream.com/#!/InventingOnPrinciple
 Lay of the Land - What Kinds of Things Do HCI Researchers Work On? (Subfields)
 
 How Do I Get Involved in HCI?
+
+Other Schools' Resources
+https://hci.stanford.edu/connect/ 
+
