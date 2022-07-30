@@ -22,6 +22,9 @@ https://jacobsinstitute.berkeley.edu/berkeley-engineering-design-scholar-program
 ## CS PhD Guides
 https://parentheticallyspeaking.org/articles/us-cs-phd-faq/ 
 
+## Personal Website Template
+https://github.com/jonbarron/website 
+
 ## How Do I Do HCI Research?
 https://faculty.washington.edu/ajko/papers/Ko2019StudyDesign.pdf 
 https://hcicourses.stanford.edu/cs347/2020/project.php
