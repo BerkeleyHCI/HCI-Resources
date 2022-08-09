@@ -26,6 +26,9 @@ https://parentheticallyspeaking.org/articles/us-cs-phd-faq/
 [Introduction to Doctoral Studies in Information Science, Fall 2016 | Amy Voida](https://amy.voida.com/info7000-fall2016/)
 [CS298 Research Culture And Community Norms: Topic Schedule](https://inst.eecs.berkeley.edu/~cs298-7/fa21/topic-schedule/)
 
+## Professor FAQs
+[FAQ · Scott Klemmer](https://d.ucsd.edu/srk/faq/) 
+
 ## Personal Website Template
 https://github.com/jonbarron/website 
 
