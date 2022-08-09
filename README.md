@@ -21,7 +21,8 @@ https://jacobsinstitute.berkeley.edu/berkeley-engineering-design-scholar-program
 
 ## PhD Guides
 https://parentheticallyspeaking.org/articles/us-cs-phd-faq/ 
-[The Tao of PhD | The Tao of PhD: Thriving in the Allen School’s Graduate Program](https://courses.cs.washington.edu/courses/cse590x/22wi/)
+
+[The Tao of PhD: Thriving in the Allen School’s Graduate Program](https://courses.cs.washington.edu/courses/cse590x/22wi/)
 [Introduction to Doctoral Studies in Information Science, Fall 2016 | Amy Voida](https://amy.voida.com/info7000-fall2016/)
 [CS298 Research Culture And Community Norms: Topic Schedule](https://inst.eecs.berkeley.edu/~cs298-7/fa21/topic-schedule/)
 
