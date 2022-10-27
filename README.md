@@ -15,6 +15,7 @@ https://docs.google.com/spreadsheets/d/1xoezGhbtcpg3BvNdag2F5dTQM-Xl2EELUgAfG1eU
 
 ### Statements of Purpose
 https://cs-sop.org/ 
+https://twitter.com/RomanFeiman/status/1585700225280528385?s=20&t=eYffpfXPTvKsPbUcIgMRfg
 
 ## Summer Opportunities
 http://www.andrewkuz.net/hci-opportunities-summer-2022.html 
