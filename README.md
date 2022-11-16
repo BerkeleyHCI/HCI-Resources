@@ -39,9 +39,9 @@ https://parentheticallyspeaking.org/articles/us-cs-phd-faq/
 https://github.com/jonbarron/website 
 
 ## How Do I Do HCI Research?
-https://faculty.washington.edu/ajko/papers/Ko2019StudyDesign.pdf 
-https://hcicourses.stanford.edu/cs347/2020/project.php
-https://yatani.jp/teaching/doku.php?id=hcistats:start 
+- https://faculty.washington.edu/ajko/papers/Ko2019StudyDesign.pdf 
+- https://hcicourses.stanford.edu/cs347/2020/project.php
+- https://yatani.jp/teaching/doku.php?id=hcistats:start 
 
 ## Inspiration
 http://worrydream.com/#!/InventingOnPrinciple 
