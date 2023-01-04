@@ -37,6 +37,7 @@ https://parentheticallyspeaking.org/articles/us-cs-phd-faq/
 
 ## Personal Website Template
 https://github.com/jonbarron/website 
+https://academicpages.github.io/ 
 
 ## How Do I Do HCI Research?
 - https://faculty.washington.edu/ajko/papers/Ko2019StudyDesign.pdf 
