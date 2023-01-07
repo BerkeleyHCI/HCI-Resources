@@ -36,9 +36,9 @@ https://parentheticallyspeaking.org/articles/us-cs-phd-faq/
 [FAQ · Scott Klemmer](https://d.ucsd.edu/srk/faq/) 
 
 ## Personal Website Template
-https://github.com/jonbarron/website 
-https://academicpages.github.io/ 
-https://github.com/erawn/personal-site/ (Mine is messy, but does a few fancy things, like implement a simple project system via markdown files and render a PDF resume)
+- https://github.com/jonbarron/website 
+- https://academicpages.github.io/ 
+- https://github.com/erawn/personal-site/ (Mine is messy, but does a few fancy things, like implement a simple project system via markdown files and render a PDF resume)
 
 ## How Do I Do HCI Research?
 - https://faculty.washington.edu/ajko/papers/Ko2019StudyDesign.pdf 
