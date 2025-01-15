@@ -5,7 +5,8 @@
 ### [@erawn](https://github.com/erawn) is in charge of this - please contact them with any questions or concerns. 
 
  
-
+## Other Compilations of Advice
+https://homes.cs.washington.edu/~mernst/advice/ 
 
 ## Applying to Grad School
 ### Interviews
